@@ -1,0 +1,6 @@
+D:\Berni\Pr\Projekte\Expressions\Expressions\bin\Debug\Expressions.exe.config
+D:\Berni\Pr\Projekte\Expressions\Expressions\bin\Debug\Expressions.exe
+D:\Berni\Pr\Projekte\Expressions\Expressions\bin\Debug\Expressions.pdb
+D:\Berni\Pr\Projekte\Expressions\Expressions\obj\Debug\Expressions.exe
+D:\Berni\Pr\Projekte\Expressions\Expressions\obj\Debug\Expressions.pdb
+D:\Berni\Pr\Projekte\Expressions\Expressions\obj\Debug\XOR.csprojResolveAssemblyReference.cache
